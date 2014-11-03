@@ -1,6 +1,6 @@
 # amqp_client
 
-###Routung 4
+###Routing 4
 
 ##Consumer:
 
